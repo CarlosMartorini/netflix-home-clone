@@ -87,10 +87,6 @@ header{
         border-radius: 4px;
     }
 
-    header .menu-usuario{
-
-    }
-
     header .pesquisar{
         display: none;
     }
@@ -170,15 +166,6 @@ footer{
 main{
 }
 
-
-    main .secao-destaque{
-        /* background-image: url("../img/movies/ted.webp"); */
-        /* background-image: linear-gradient(to bottom, transparent 50%, var(--background-body) 99%),
-        linear-gradient(to top, transparent 50%, var(--background-body) 99%), 
-        url('../img/movies/ted.webp');
-        width: 100vw; */
-    }
-
     #logo-imagem{
         height: 100px;
     }
@@ -239,9 +226,6 @@ main{
     main .secao-destaque .secao-destaque-buttons .mais-informacoes img{
         width: 12px;
         padding-right: 2px;
-    }
-
-    main section{
     }
 
     main .secao-catalogo .container .secao-catalogo-titulo{
